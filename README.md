@@ -19,7 +19,7 @@ Or download from: (https://github.com/varunyadavgg/AUTO-Continue-GPT.git)
 
 3. Enable "Developer mode" by toggling the switch in the top right corner.
 
-4. Click the "Load unpacked" button and select the folder containing the extension files (`click-continue-generating-extension`).
+4. Click the "Load unpacked" button and select the folder containing the extension files (`AUTO-Complete-GPT`).
 
 The extension is now loaded and active. It will automatically click the "Continue generating" button every second on `https://chat.openai.com/`.
 
