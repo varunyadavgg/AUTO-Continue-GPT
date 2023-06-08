@@ -3,6 +3,7 @@ This Chrome extension automatically clicks the "Continue generating" button ever
 # Click Continue Generating Chrome Extension
 
 This Chrome extension automatically clicks the "Continue generating" button every second on OpenAI Chat (`https://chat.openai.com/`).
+Also works on other Chromium based browsers.
 
 ## Installation
 
