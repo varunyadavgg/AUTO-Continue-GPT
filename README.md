@@ -10,7 +10,7 @@ Also works on other Chromium based browsers.
 1. Clone or download this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/click-continue-generating-extension.git
+git clone https://github.com/varunyadavgg/AUTO-Continue-GPT.git
 
 ```
 Or download from: (https://github.com/varunyadavgg/AUTO-Continue-GPT.git)
