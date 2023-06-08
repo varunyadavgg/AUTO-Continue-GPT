@@ -10,7 +10,9 @@ This Chrome extension automatically clicks the "Continue generating" button ever
 
 ```bash
 git clone https://github.com/yourusername/click-continue-generating-extension.git
+
 ```
+Or download from: (https://github.com/varunyadavgg/AUTO-Continue-GPT.git)
 
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 
